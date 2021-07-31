@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="very_small_space">4dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="medium_space">12dp</dimen>
+    <dimen name="large_space">16dp</dimen>
+    <dimen name="very_large_space">32dp</dimen>
+    
+    <dimen name="fixed_size_for_present_day_and_today_activity">18sp</dimen>
+    
+    <dimen name="fixed_size_for_hours_temperature_days_temperature">24sp</dimen>
+
+    <dimen name="fixed_size_for_day_forecast">25sp</dimen>
+
+    <dimen name="fixed_size_for_hours_date">18sp</dimen>
+</resources>

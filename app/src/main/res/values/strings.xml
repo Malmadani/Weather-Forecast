@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">WeatherForecast</string>
+
+    <string name="country_default">Ankara</string>
+    <string name="open_weather_api_key">9ff3e0ba8e51ef8c8861e95c8b7cca18</string>
+
+    <!-- Temperature format -->
+    <string name="format_temperature">
+   <xliff:g id="temp">%1.0f</xliff:g>\u00B0
+</string>
+
+    <!-- HighLow Temperature format -->
+    <string name="high_low_temperature">
+   <xliff:g id="high_temp">%1$1.0f</xliff:g>\u00B0 /
+   <xliff:g id="low_temp">%2$1.0f</xliff:g>\u00B0
+</string>
+</resources>
